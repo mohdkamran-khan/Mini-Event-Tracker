@@ -20,7 +20,7 @@ Allows users to create, view, update, delete and search events. Has basic user a
 ## 📸 Screenshots
 
 - Home:
-<img width="2580" height="1898" alt="localhost_5173_ (3)" src="https://github.com/user-attachments/assets/bdb657e2-8716-4431-a4cf-967a5a1886a9" />
+<img width="2260" height="1930" alt="localhost_5173_ (1)" src="https://github.com/user-attachments/assets/f98c48e6-87d6-4813-b9f9-b21f10d961e8" />
 
 ---
 
