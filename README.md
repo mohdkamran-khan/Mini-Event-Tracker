@@ -49,7 +49,7 @@ Allows users to create, view, update, delete and search events. Has basic user a
 
 ---
 
-- Search Events:
+- Search:
 <img width="2580" height="1898" alt="localhost_5173_ (3)" src="https://github.com/user-attachments/assets/a311f262-da7f-42b5-9e7f-cf8e82583d1e" />
 
 ---
