@@ -136,7 +136,7 @@ You are free to use, modify, and distribute it for personal or educational use.
 
 Portfolio: https://mohdkamran-khan.github.io/KAMRAN-portfolio/
 
-E-mail: khanmohdkamran@yahoo.com
+E-mail: mohdkamrankhan.dev@gmail.com
 
 ---
 
